@@ -59,7 +59,6 @@
 	==============================================-->
 	<!-- jQuery V3.4.1 -->
 	<script src="./templates/js/jquery-3.4.1.min.js" ></script>
-	Would you like Visual Studio Code to periodically run "git
 
 	<!-- popper -->
 	<script src="./templates/js/popper.min.js" ></script>
